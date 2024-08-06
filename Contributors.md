@@ -942,6 +942,7 @@ vrushabhpatil48
 - [Jyotsna](https://github.com/Akki-58) **Contributing**
 - [Wisdom Ofogba](https://github.com/WisdomOfogba)
 - [Kaede Nakayashiki](https://github.com/naka520)
+-  
 - [Gunju Yoo](https://github.com/bakgom123)
 - [YeThihaMyoLwin](https://github.com/yethihamyolwin)
 - [nyangoto](https://github.com/nyangoto) **First OSS contribution**
@@ -2063,6 +2064,7 @@ Kayla Barton
 - [Subham Patra](https://github.com/AlphaGotReal)
 - [Anand Philip](https://github.com/aflip)
 - [Anand] (https://github.com/anand129-dev)
+- [CNandi]
 - [Nikhil Maurya](https://github.com/nikhilmaurya1)
 - [Horusateel](https://github.com/Horusateel)
 - [Denton Kunz](https://github.com/dkunz2024)
